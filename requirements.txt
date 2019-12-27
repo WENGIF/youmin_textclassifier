@@ -1,0 +1,8 @@
+gensim==3.6.0
+numpy==1.15.4
+jieba==0.39
+Cython==0.27.3
+scikit-learn>=0.20.2
+fasttext==0.8.3
+prettytable==0.7.2
+fire==0.1.3

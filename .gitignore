@@ -1,0 +1,21 @@
+# Python
+*.py[cod]
+*.cpython-35.pyc
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
+settings.json
+bak/*
+examples/data/*
+data/*
+.env/*
